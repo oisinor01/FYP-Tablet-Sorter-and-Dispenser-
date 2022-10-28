@@ -7,5 +7,6 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   Serial.println("This is ESP32 loop code");
+  Serial.println("second practice at this ";
   delay(1000);
 }
